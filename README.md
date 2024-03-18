@@ -2,7 +2,8 @@
 
 <p align="center">
 <img src="images/VemSerTech.jpg"  alt="VemSerTech" height="200px align="left" />
-<img src="images/database.png"  alt="database" height="200px align="right"/>
+<span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+<img src="images/mysql_database.png"  alt="database" height="200px align="right"/>
 </p>
 
 ## Vem Ser Tech
